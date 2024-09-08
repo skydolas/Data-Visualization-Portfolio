@@ -85,3 +85,11 @@
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
+
+The following line chart represents the debt as percentage of GDP between 1998-2018 for top 8 countries in OECD. These countries are also among the top 10 world economies. The line chart focuses on how over the two decades Germany and Australia have maintained their debt percentage below GDP, whereas the other countries have failed to do so. In order to create this focus I have chosen 100% as a threshold line. Countries having GDP above 100% in 2018 are set in background using grey. Additionally Germany and Australia has been shown in two distinct colors to show distinction and create focus. Using interactive functionality of Tableau, hover feature is used to display specific details for each country. A bold descriptory title is used to build context and make the the data visualization more comprehensible.
+
+### Summary
+The 3 visualizations bar chart, heatmap, line chart showcase different stories, even though they use same data in the backend. 
+Bar chart is focused on showing the debt as percentage of GDP for all OECD countries in 2022. To draw attention to what's happening with top 3 countries Japan, United States and Germany are highlighted.
+Heat map focuses on showing how different countires have handled debt from 1995 to 2019. It does so by having 100% as the center value and using color gradation to represent highs and lows in orange and blue. Blue being debt < 100% of GDP and red being debt>100% of GDP. The concept of heat map helps in getting a nice comparative overview.This map unlike bar chart shows the density of debt across time and countries.
+Line chart on the other hand uses a subset of data to dsiplay how two countries of the top 10 economies have maintained their debt percentage below 100 for 2 decades (1998-2018). This chart unlike other shows trend over the years.
