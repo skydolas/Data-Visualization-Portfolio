@@ -13,6 +13,6 @@ Throughout my career I've used data to back qualitative research. Through this c
 ## Projects
 Here are my cool data visualization projects.
 
-#### [Govt debt-2022 data visualization](/General govt debt 2022.md)
+#### 1. [Govt debt-2022 data visualization](/General govt debt 2022.md)
 
 
