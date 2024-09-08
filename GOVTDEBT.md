@@ -86,6 +86,7 @@
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
+
 The following line chart represents the debt as percentage of GDP between 1998-2018 for top 8 countries in OECD. These countries are also among the top 10 world economies. The line chart focuses on how over the two decades Germany and Australia have maintained their debt percentage below GDP, whereas the other countries have failed to do so. In order to create this focus I have chosen 100% as a threshold line. Countries having GDP above 100% in 2018 are set in background using grey. Additionally Germany and Australia has been shown in two distinct colors to show distinction and create focus. Using interactive functionality of Tableau, hover feature is used to display specific details for each country. A bold descriptory title is used to build context and make the the data visualization more comprehensible.
 
 ### Summary
