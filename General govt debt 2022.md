@@ -1,4 +1,4 @@
-## General govt. debt OECD 2022
+## General govt. debt OECD
 
 ### Part 1
 <iframe src="https://data-viewer.oecd.org?chartId=dbe15a84-e68a-4782-bbda-0bd7b8d2367d" style="border: none; width: 600px; height: 400px;" allowfullscreen="true"></iframe>
