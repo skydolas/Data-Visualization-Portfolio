@@ -13,6 +13,5 @@ Throughout my career I've used data to back qualitative research. Through this c
 ## Projects
 Here are my cool data visualization projects.
 
-#### 1. [Govt Debt Data Visualization](/govtdebt.md)
 
 
