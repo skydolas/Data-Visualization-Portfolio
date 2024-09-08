@@ -13,8 +13,7 @@ Throughout my career I've used data to back qualitative research. Through this c
 # Projects
 Here are my cool data visualization projects.
 
-# [Govt Debt 2022 Data Visualization](/Data Viz- Govt Debt 2022.md)
-[General government Debt 2022](https://github.com/skydolas/Data-Visualization-Portfolio/blob/962a643468f7bf18284a53c45207523cbcd43049/Data%20Viz-%20Govt%20Debt%202022)
+# [Govt Debt 2022 Visualization](https://github.com/skydolas/Data-Visualization-Portfolio/blob/962a643468f7bf18284a53c45207523cbcd43049/Data%20Viz-%20Govt%20Debt%202022)
 
 # Assignment 2
 A brief description about this assignment in 2-3 points.
