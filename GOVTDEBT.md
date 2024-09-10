@@ -1,8 +1,9 @@
 ## General govt. debt OECD
 
 ### Part 1
+<a rel="noopener noreferrer" href="https://data-viewer.oecd.org?chartId=dbe15a84-e68a-4782-bbda-0bd7b8d2367d" target="_blank">Click here to interact with the chart</a>
 <img src="./OECD-govt%20debt%202022.png" alt="OECD Govt Debt 2022" width="800" height="600">
-<a rel="noopener noreferrer" href="https://data-viewer.oecd.org?chartId=dbe15a84-e68a-4782-bbda-0bd7b8d2367d" target="_blank">Click to interact</a>
+
 
 
 ### Part 2
