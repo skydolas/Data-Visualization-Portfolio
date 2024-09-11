@@ -53,7 +53,10 @@ The following heatmap represents the progression of debt over time and also show
 </html>
 
 
-### Part 3
+### 3: Debt percentage trend for top 8 economies over 2 decades, 1998-2018
+The following line chart represents the debt as percentage of GDP between 1998-2018 for top 8 countries in OECD. These countries are also among the top 10 world economies. The line chart focuses on how over the two decades Germany and Australia have maintained their debt percentage below GDP, whereas the other countries have failed to do so. In order to create this focus I have chosen 100% as a threshold line. Countries having GDP above 100% in 2018 are set in background using grey. Additionally Germany and Australia has been shown in two distinct colors to show distinction and create focus. Using interactive functionality of Tableau, hover feature is used to display specific details for each country. A bold descriptory title is used to build context and make the the data visualization more comprehensible.
+
+
 <div class='tableauPlaceholder' id='viz1725836743572' style='position: relative; width: 100%;'>
   <noscript>
     <a href='#'>
@@ -91,7 +94,7 @@ The following heatmap represents the progression of debt over time and also show
 </script>
 
 
-The following line chart represents the debt as percentage of GDP between 1998-2018 for top 8 countries in OECD. These countries are also among the top 10 world economies. The line chart focuses on how over the two decades Germany and Australia have maintained their debt percentage below GDP, whereas the other countries have failed to do so. In order to create this focus I have chosen 100% as a threshold line. Countries having GDP above 100% in 2018 are set in background using grey. Additionally Germany and Australia has been shown in two distinct colors to show distinction and create focus. Using interactive functionality of Tableau, hover feature is used to display specific details for each country. A bold descriptory title is used to build context and make the the data visualization more comprehensible.
+
 
 ### Conclusion
 The 3 visualizations bar chart, heatmap, line chart showcase different stories, even though they use same data in the backend. 
