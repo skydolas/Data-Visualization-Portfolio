@@ -97,7 +97,10 @@ The following line chart represents the debt as percentage of GDP between 1998-2
 
 
 ### Conclusion
-The 3 visualizations bar chart, heatmap, line chart showcase different stories, even though they use same data in the backend. 
+The 3 visualizations bar chart, heatmap, line chart showcase different stories, even though they use same data in the backend.   
+    
 Bar chart is focused on showing the debt as percentage of GDP for all OECD countries in 2022. To draw attention to what's happening with top 3 countries Japan, United States and Germany are highlighted.
+
 Heat map focuses on showing how different countires have handled debt from 1995 to 2019. It does so by having 100% as the center value and using color gradation to represent highs and lows in orange and blue. Blue being debt < 100% of GDP and red being debt>100% of GDP. The concept of heat map helps in getting a nice comparative overview.This map unlike bar chart shows the density of debt across time and countries.
+
 Line chart on the other hand uses a subset of data to dsiplay how two countries of the top 10 economies have maintained their debt percentage below 100 for 2 decades (1998-2018). This chart unlike other shows trend over the years.
