@@ -1,12 +1,15 @@
 ## General govt. debt OECD
 
-### Part 1
+### 1: Debt percentage comparison of OECD countries in 2022
+The following bar graph focuses on debt percentage (how much is debt when compared to total GDP) for OECD countries. Among those the ones highlighted in red, blue and purple highlights what is happening the top 3 economies in OECD. What particularly works well in this bar chart visualization is the side to side comparison between different countries.
+
 <a rel="noopener noreferrer" href="https://data-viewer.oecd.org?chartId=dbe15a84-e68a-4782-bbda-0bd7b8d2367d" target="_blank">Click here to interact with the chart</a>
 <img src="./OECD-govt%20debt%202022.png" alt="OECD Govt Debt 2022" width="800" height="600">
 
 
+### 2: OECD landscape of debt percentage from 1995 to 2019
+The following heatmap represents the progression of debt over time and also showcases the density of debt across countries. The orange color represents the countries having debt more than their GDP and the blue represents countries having debt below GDP. The gradients represents the severity. What works well with this representation is one can quickly get a quick debt overview of OECD countries.
 
-### Part 2
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -90,7 +93,7 @@
 
 The following line chart represents the debt as percentage of GDP between 1998-2018 for top 8 countries in OECD. These countries are also among the top 10 world economies. The line chart focuses on how over the two decades Germany and Australia have maintained their debt percentage below GDP, whereas the other countries have failed to do so. In order to create this focus I have chosen 100% as a threshold line. Countries having GDP above 100% in 2018 are set in background using grey. Additionally Germany and Australia has been shown in two distinct colors to show distinction and create focus. Using interactive functionality of Tableau, hover feature is used to display specific details for each country. A bold descriptory title is used to build context and make the the data visualization more comprehensible.
 
-### Summary
+### Conclusion
 The 3 visualizations bar chart, heatmap, line chart showcase different stories, even though they use same data in the backend. 
 Bar chart is focused on showing the debt as percentage of GDP for all OECD countries in 2022. To draw attention to what's happening with top 3 countries Japan, United States and Germany are highlighted.
 Heat map focuses on showing how different countires have handled debt from 1995 to 2019. It does so by having 100% as the center value and using color gradation to represent highs and lows in orange and blue. Blue being debt < 100% of GDP and red being debt>100% of GDP. The concept of heat map helps in getting a nice comparative overview.This map unlike bar chart shows the density of debt across time and countries.
