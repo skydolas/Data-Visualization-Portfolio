@@ -1,8 +1,39 @@
-##Infection Awareness  
-###Original Data-Visualization  
+## Antibiotic Awareness  
+### Original Data-Visualization  
 <img src="./Antibiotics Awareness.png/" alt="Antibiotics Awareness" width="1000" />
 
-###Refined Data-Visualization
+### Original Data-Visulaization Analysis  
+#### First Impressions
+Firstly I can see a stacked bar graph with % values. Then my attention is drawn to KFF. I quickly focus on the light blue bars and then see the title to build context. Further I move towards the legend and then spend some time figuring out the text on the left.  
+
+#### Initial Observations
+After spending a couple of minutes, now I start understanding that the labels on the left display demographic information. It is still difficult to understand the region/country this graph represents. A short description below the title suggests that this data is about an experiment or study conducted on awareness about use of antibiotics. While the graph and demographic information on left helps in understanding the bifurcation of people's knowledge, its unclear which attribute is more important.  
+
+#### What I like?
+- I like how the labels are in grey and go in the background.  
+- I also like how the stacked bar chart is limited to 3 attributes, as it is easy to compare 3 quantities.  
+- Having a title, description and legend is really helpful in building context for this chart, so I like that.  
+  
+#### What I don't like?
+- I don't like the clutter on the left, it's creating confusion and I'm unable to determine which one is more important.  
+- I also dislike how, the graph doesn't talk about any specific location or region.  
+- I dislike the confusion created by multiple comparisons. Here there is a comparison that is happening horizontally across 3 colored values and there is a comparison that is happening vertically. This is creating a lack of focus while reading this chart.  
+
+#### What I wish I saw?
+- I wish there was clear distinction and space between each demographic category. this would take away the visual confusion.  
+- I wish the title or description had a region to which this demographic population belongs to.  
+- I wish there were separate sub-titles or descriptions for each category to help, reader understand what to look for in each section.  
+
+#### What I think I would do differently?
+- I will add location/ region to build more context while viewing this data for the target audience.  
+- I will split this chart into 4 distinct graphics or make clear sections to avoid confusion caused due to proximity of bar charts.  
+- I will add subtitles or description for each section to help user understand what to look for.  
+
+| **What I like?**                                                                                                                                                                                                                                                                                   | **What I don't like?**                                                                                                                                                                                                                                                                               | **What I wish I saw?**                                                                                                                                                                                                                                                                                | **What I think I would do differently?**                                                                                                                                                                                                                                                                  |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| - I like how the labels are in grey and go in the background. <br> - I also like how the stacked bar chart is limited to 3 attributes, as it is easy to compare 3 quantities. <br> - Having a title, description, and legend is really helpful in building context for this chart, so I like that.     | - I don't like the clutter on the left, it's creating confusion and I'm unable to determine which one is more important. <br> - I also dislike how the graph doesn't talk about any specific location or region. <br> - The confusion created by multiple comparisons leads to a lack of focus.           | - I wish there was clear distinction and space between each demographic category. <br> - I wish the title or description had a region to which this demographic population belongs. <br> - Separate sub-titles or descriptions for each category would help the reader understand what to look for.      | - I would add location/region to build more context for the target audience. <br> - I would split this chart into 4 distinct graphics or create clear sections to avoid confusion caused by proximity of bar charts. <br> - Subtitles or descriptions for each section would guide users on what to focus on. |
+
+### Refined Data-Visualization
 <div class='tableauPlaceholder' id='viz1726705773791' style='position: relative'>
     <noscript>
         <a href='#'>
