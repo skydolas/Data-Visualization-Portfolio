@@ -11,32 +11,43 @@ After spending a couple of minutes, now I start understanding that the labels on
 
 <table style="width:100%; border-collapse: collapse;">
   <tr>
-    <td style="border: 1px solid #ddd; padding: 10px; vertical-align: top;">
-      <strong>What I like?</strong><br><br>
+    <th style="border: 1px solid #ddd; padding: 10px; vertical-align: top; text-align: left;">
+      <strong>What I like?</strong>
+    </th>
+    <th style="border: 1px solid #ddd; padding: 10px; vertical-align: top; text-align: left;">
+      <strong>What I don't like?</strong>
+    </th>
+    <th style="border: 1px solid #ddd; padding: 10px; vertical-align: top; text-align: left;">
+      <strong>What I wish I saw?</strong>
+    </th>
+    <th style="border: 1px solid #ddd; padding: 10px; vertical-align: top; text-align: left;">
+      <strong>What I think I would do differently?</strong>
+    </th>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 10px; vertical-align: top; text-align: left;">
       - I like how the labels are in grey and go in the background.<br><br>
       - I also like how the stacked bar chart is limited to 3 attributes, as it is easy to compare 3 quantities.<br><br>
       - Having a title, description, and legend is really helpful in building context for this chart, so I like that.
     </td>
-    <td style="border: 1px solid #ddd; padding: 10px; vertical-align: top;">
-      <strong>What I don't like?</strong><br><br>
+    <td style="border: 1px solid #ddd; padding: 10px; vertical-align: top; text-align: left;">
       - I don't like the clutter on the left, it's creating confusion and I'm unable to determine which one is more important.<br><br>
       - I also dislike how the graph doesn't talk about any specific location or region.<br><br>
       - The confusion created by multiple comparisons leads to a lack of focus.
     </td>
-    <td style="border: 1px solid #ddd; padding: 10px; vertical-align: top;">
-      <strong>What I wish I saw?</strong><br><br>
+    <td style="border: 1px solid #ddd; padding: 10px; vertical-align: top; text-align: left;">
       - I wish there was clear distinction and space between each demographic category.<br><br>
       - I wish the title or description had a region to which this demographic population belongs.<br><br>
       - Separate sub-titles or descriptions for each category would help the reader understand what to look for.
     </td>
-    <td style="border: 1px solid #ddd; padding: 10px; vertical-align: top;">
-      <strong>What I think I would do differently?</strong><br><br>
+    <td style="border: 1px solid #ddd; padding: 10px; vertical-align: top; text-align: left;">
       - I would add location/region to build more context for the target audience.<br><br>
       - I would split this chart into 4 distinct graphics or create clear sections to avoid confusion caused by proximity of bar charts.<br><br>
       - Subtitles or descriptions for each section would guide users on what to focus on.
     </td>
   </tr>
 </table>
+
 
 
 
