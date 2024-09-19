@@ -2,7 +2,7 @@
 For this project an existing data-visualization about antibiotics awareness among Americans in 2019, was chosen. The original data-visulaization looks fairly simple, but is difficult to comprehend and builds un-necessary co-relations. This is what intrigued me and motivated me to simplify this graphic. A simple process of Evaluation-Ideation-Finalization was followed to reach the end output. During the process some user feedback was collected to guage how user's are viewing the new graphic.
 
 ### Original Data-Visualization  
-<img src="./Antibiotics Awareness.png/" alt="Antibiotics Awareness" width="800"/>
+<img src="Antibiotics Awareness.png" alt="Antibiotics Awareness" width="1000">
 
 
 
