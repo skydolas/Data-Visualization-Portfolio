@@ -48,33 +48,43 @@ After spending a couple of minutes, now I start understanding that the labels on
 ### Evaluation criterias and scores on a scale of 10  
 #### Usefulness = 7/10  
 (Is it useful for the intended audience? Does it communicate valuable information?)  
+  
 Reason: The graphic displays demographic bifurcation, so it is usesful for government agencies and healthcare institutes. However it doesn't include region or location, which makes it slightly unusable if its not accompanied with supporting text.  
 
 #### Completeness = 6/10  
 (Does the visualization have everything necessary to make it understandable?)  
+  
 Reason: The graphic doesn't have location details, it doesn't show sample size of the audience. Additionally, it lacks subtitles or descriptions for each demographic sector.  
 
 #### Perceptibility = 4/10  
 (Can the reader understand the information with minimal effort? Is the visualization type appropriate?  Does it use illogical comparisons?)  
+  
 Reason: It takes quite a while to understand what is going on within the visualization. Due to the lack of whitespace between the two demographic sections. It leads to illogical vertical comparison.  
 
 #### Truthfulness = 10/10  
 (Is the visualization accurate, reliable and valid?  Is it representing what it says it is, and in the most complete and truthful manner? Does it misrepresent the data or make comparisions that aren't correct?)  
+  
 Reason: The data is represented in truthful manner and there isn't any data which is falsified or represented in wrongful manner.  
 
 #### Intuitiveness = 4/10   
 (Is it easy to understand and clearly communicates the information? If unfamiliar, does it include easy to understand instructions on how to interpret it?)  
+  
 Reason: The graphic isn't obvious, and it takes a while to understand what's going on. Most importantly there is a struggle to understand what is the focus or larger picture.  
 
 #### Aesthetics = 5/10  
 (It is interesting / enjoyable to look at? Is it a good example of what a beautiful data visualization might look like? Is it somewhere in the middle - pleasing but otherwise not distracting to look at?)  
+  
 Reason: The graphic does a fair job in aesthetics. Uses grey to put text in background and use minimal colors. However, it can be better if  whitespace is used to convey segregation and  color is used to add meaning.  
 
 #### Engagement = 7/10  
 (Does it lead the audience to learn more about the topic? Does it inspire the audience to talk about the data or share it with others?)  
+  
 Reason: The graphic does a fair job in aesthetics. Uses grey to put text in background and use minimal colors. However, it can be better if  whitespace is used to convey segregation and  color is used to add meaning.  
 
 ### 2) IDEATION: Exploring various ways to represent the data effectively  
+It started with a few scribbles where different versions of bar charts, line cahrts and pie charts were explored to represent the data. All of this resulted in following 2 concepts. The overall idea was to break each demographic into separate charts to alleviate the confusion created in original chart. These concepts were tested with 4 users.
+  
+<img src="Ideation Sketch.jpg" alt="Ideation Sketch" width="600">
 
 
 ### 3) FINAL OUTPUT: The refined output representing the same data
