@@ -3,6 +3,7 @@
 <img src="./Antibiotics Awareness.png/" alt="Antibiotics Awareness" width="1000" />
 
 
+
 ### 1) EVALUATION: Analyzing original data-visualization  
 #### First Impressions
 Firstly I can see a stacked bar graph with % values. Then my attention is drawn to KFF. I quickly focus on the light blue bars and then see the title to build context. Further I move towards the legend and then spend some time figuring out the text on the left.  
@@ -85,6 +86,20 @@ Reason: The graphic does a fair job in aesthetics. Uses grey to put text in back
 It started with a few scribbles where different versions of bar charts, line cahrts and pie charts were explored to represent the data. All of this resulted in following 2 concepts. The overall idea was to break each demographic into separate charts to alleviate the confusion created in original chart. These concepts were tested with 4 users.
   
 <img src="Ideation Sketch.jpg" alt="Ideation Sketch" width="600">
+
+#### Feedback 1:  
+*"Compared to original, now I am able to understand which values are important. However, I still don't understand why age and gender is needed? Does it mean, men in 18-64 years are aware of it?"*  
+
+#### Feedback 2:  
+*"The heading is relevant, however it leaves me  with the question. Its not giving an overview of the chart. Is the distinction between don't know and wrong answer necessary. It doesn't matter"*
+
+#### Feedback 3:  
+*"I definetely like the separate charts. However, I don't agree with red color for correct answer it feels like it is wrong"*
+
+#### Feedback 4:
+*"Is age and gender relevant for this type of data. I understand education and income having an impact on antibiotic awareness. Apart from that the separate divergent charts are really working"*
+
+Based on these feedbacks a finalized version was created focusing on income and education as key factors for antibiotics awareness.
 
 
 ### 3) FINAL OUTPUT: The refined output representing the same data
