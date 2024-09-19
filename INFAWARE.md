@@ -2,12 +2,17 @@
 ### Original Data-Visualization  
 <img src="./Antibiotics Awareness.png/" alt="Antibiotics Awareness" width="1000" />
 
-### Original Data-Visulaization Analysis  
+
+### 1) EVALUATION: Analyzing original data-visualization  
 #### First Impressions
 Firstly I can see a stacked bar graph with % values. Then my attention is drawn to KFF. I quickly focus on the light blue bars and then see the title to build context. Further I move towards the legend and then spend some time figuring out the text on the left.  
 
+#### Who could be the potential user for such data?
+This data visualization is primarily intended for government agencies and healthcare institutions. It provides a solid demographic overview of public awareness regarding antibiotics. Government agencies can use this demographic data to inform their healthcare awareness campaigns, while medical institutions can gain insights into psychological patterns and public sentiment surrounding viruses and antibiotics. This information can be particularly valuable in shaping care delivery policies and drug awareness initiatives.
+
 #### Initial Observations
 After spending a couple of minutes, now I start understanding that the labels on the left display demographic information. It is still difficult to understand the region/country this graph represents. A short description below the title suggests that this data is about an experiment or study conducted on awareness about use of antibiotics. While the graph and demographic information on left helps in understanding the bifurcation of people's knowledge, its unclear which attribute is more important.  
+
 
 <table>
   <thead>
@@ -38,10 +43,41 @@ After spending a couple of minutes, now I start understanding that the labels on
       <td>I will add subtitles or description for each section to help user understand what to look for.</td>
     </tr>
   </tbody>
-</table>
+</table>  
+
+### Evaluation criterias and scores on a scale of 10  
+#### Usefulness = 7/10  
+(Is it useful for the intended audience? Does it communicate valuable information?)  
+Reason: The graphic displays demographic bifurcation, so it is usesful for government agencies and healthcare institutes. However it doesn't include region or location, which makes it slightly unusable if its not accompanied with supporting text.  
+
+#### Completeness = 6/10  
+(Does the visualization have everything necessary to make it understandable?)  
+Reason: The graphic doesn't have location details, it doesn't show sample size of the audience. Additionally, it lacks subtitles or descriptions for each demographic sector.  
+
+#### Perceptibility = 4/10  
+(Can the reader understand the information with minimal effort? Is the visualization type appropriate?  Does it use illogical comparisons?)  
+Reason: It takes quite a while to understand what is going on within the visualization. Due to the lack of whitespace between the two demographic sections. It leads to illogical vertical comparison.  
+
+#### Truthfulness = 10/10  
+(Is the visualization accurate, reliable and valid?  Is it representing what it says it is, and in the most complete and truthful manner? Does it misrepresent the data or make comparisions that aren't correct?)  
+Reason: The data is represented in truthful manner and there isn't any data which is falsified or represented in wrongful manner.  
+
+#### Intuitiveness = 4/10   
+(Is it easy to understand and clearly communicates the information? If unfamiliar, does it include easy to understand instructions on how to interpret it?)  
+Reason: The graphic isn't obvious, and it takes a while to understand what's going on. Most importantly there is a struggle to understand what is the focus or larger picture.  
+
+#### Aesthetics = 5/10  
+(It is interesting / enjoyable to look at? Is it a good example of what a beautiful data visualization might look like? Is it somewhere in the middle - pleasing but otherwise not distracting to look at?)  
+Reason: The graphic does a fair job in aesthetics. Uses grey to put text in background and use minimal colors. However, it can be better if  whitespace is used to convey segregation and  color is used to add meaning.  
+
+#### Engagement = 7/10  
+(Does it lead the audience to learn more about the topic? Does it inspire the audience to talk about the data or share it with others?)  
+Reason: The graphic does a fair job in aesthetics. Uses grey to put text in background and use minimal colors. However, it can be better if  whitespace is used to convey segregation and  color is used to add meaning.  
+
+### 2) IDEATION: Exploring various ways to represent the data effectively  
 
 
-### Refined Data-Visualization
+### 3) FINAL OUTPUT: The refined output representing the same data
 <div class='tableauPlaceholder' id='viz1726705773791' style='position: relative'>
     <noscript>
         <a href='#'>
