@@ -72,9 +72,9 @@ Reason: The data is represented in truthful manner and there isn't any data whic
 Reason: The graphic isn't obvious, and it takes a while to understand what's going on. Most importantly there is a struggle to understand what is the focus or larger picture.  
 
 #### Aesthetics = 5/10  
-(It is interesting / enjoyable to look at? Is it a good example of what a beautiful data visualization might look like? Is it somewhere in the middle - pleasing but otherwise not distracting to look at?)  
+(It is interesting / enjoyable to look at? Is it a good example of what a beautiful data visualization might look like? Is it somewhere in the middle pleasing but otherwise not distracting to look at?)  
   
-Reason: The graphic does a fair job in aesthetics. Uses grey to put text in background and use minimal colors. However, it can be better if  whitespace is used to convey segregation and  color is used to add meaning.  
+Reason: The graphic does a fair job in aesthetics. Uses grey to put text in background and use minimal colors. However, it can be better if whitespace is used to convey segregation and  color is used to add meaning.  
 
 #### Engagement = 7/10  
 (Does it lead the audience to learn more about the topic? Does it inspire the audience to talk about the data or share it with others?)  
