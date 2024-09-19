@@ -1,6 +1,6 @@
 ##Infection Awareness
 ###Original Data-Visualization
-![Antibiotics Awareness](./Antibiotics Awareness.png/Antibiotics Awareness.png)
+<img src="./path_to_your_image_folder/antibiotics-awareness.png" alt="Antibiotics Awareness" width="600" />
 
 ###Refined Data-Visualization
 <div class='tableauPlaceholder' id='viz1726705773791' style='position: relative'>
