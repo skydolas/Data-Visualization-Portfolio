@@ -1,6 +1,6 @@
 ##Infection Awareness
 ###Original Data-Visualization  
-<img src="./Antibiotics Awareness.png/" alt="Antibiotics Awareness" width="600" />
+<img src="./Antibiotics Awareness.png/" alt="Antibiotics Awareness" width="1000" />
 
 ###Refined Data-Visualization
 <div class='tableauPlaceholder' id='viz1726705773791' style='position: relative'>
