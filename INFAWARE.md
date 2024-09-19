@@ -20,26 +20,22 @@ After spending a couple of minutes, now I start understanding that the labels on
   </thead>
   <tbody>
     <tr>
-      <td>
-        - I like how the labels are in grey and go in the background.<br>
-        - I also like how the stacked bar chart is limited to 3 attributes, as it is easy to compare 3 quantities.<br>
-        - Having a title, description and legend is really helpful in building context for this chart, so I like that.
-      </td>
-      <td>
-        - I don't like the clutter on the left, it's creating confusion and I'm unable to determine which one is more important.<br>
-        - I also dislike how the graph doesn't talk about any specific location or region.<br>
-        - I dislike the confusion created by multiple comparisons. Here there is a comparison that is happening horizontally across 3 colored values and there is a comparison that is happening vertically. This is creating a lack of focus while reading this chart.
-      </td>
-      <td>
-        - I wish there was clear distinction and space between each demographic category. this would take away the visual confusion.<br>
-        - I wish the title or description had a region to which this demographic population belongs to.<br>
-        - I wish there were separate sub-titles or descriptions for each category to help reader understand what to look for in each section.
-      </td>
-      <td>
-        - I will add location/region to build more context while viewing this data for the target audience.<br>
-        - I will split this chart into 4 distinct graphics or make clear sections to avoid confusion caused due to proximity of bar charts.<br>
-        - I will add subtitles or description for each section to help user understand what to look for.
-      </td>
+      <td>I like how the labels are in grey and go in the background.</td>
+      <td>I don't like the clutter on the left, it's creating confusion and I'm unable to determine which one is more important.</td>
+      <td>I wish there was clear distinction and space between each demographic category. this would take away the visual confusion.</td>
+      <td>I will add location/region to build more context while viewing this data for the target audience.</td>
+    </tr>
+    <tr>
+      <td>I also like how the stacked bar chart is limited to 3 attributes, as it is easy to compare 3 quantities.</td>
+      <td>I also dislike how the graph doesn't talk about any specific location or region.</td>
+      <td>I wish the title or description had a region to which this demographic population belongs to.</td>
+      <td>I will split this chart into 4 distinct graphics or make clear sections to avoid confusion caused due to proximity of bar charts.</td>
+    </tr>
+    <tr>
+      <td>Having a title, description and legend is really helpful in building context for this chart, so I like that.</td>
+      <td>I dislike the confusion created by multiple comparisons. Here there is a comparison that is happening horizontally across 3 colored values and there is a comparison that is happening vertically. This is creating a lack of focus while reading this chart.</td>
+      <td>I wish there were separate sub-titles or descriptions for each category to help reader understand what to look for in each section.</td>
+      <td>I will add subtitles or description for each section to help user understand what to look for.</td>
     </tr>
   </tbody>
 </table>
