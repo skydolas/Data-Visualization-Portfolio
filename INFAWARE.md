@@ -1,6 +1,8 @@
 ## Antibiotic Awareness  
+For this project an existing data-visualization about antibiotics awareness among Americans in 2019, was chosen. The original data-visulaization looks fairly simple, but is difficult to comprehend and builds un-necessary co-relations. This is what intrigued me and motivated me to simplify this graphic. A simple process of Evaluation-Ideation-Finalization was followed to reach the end output. During the process some user feedback was collected to guage how user's are viewing the new graphic.
+
 ### Original Data-Visualization  
-<img src="./Antibiotics Awareness.png/" alt="Antibiotics Awareness" width="1000" />
+<img src="./Antibiotics Awareness.png/" alt="Antibiotics Awareness" width="800"/>
 
 
 
@@ -146,3 +148,6 @@ Based on these feedbacks a finalized version was created focusing on income and 
     scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
     vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
+
+### Overview of the final data-visualization 
+For the final data visualization, I focused on income and education as they were the most relevant factors for antibiotic awareness. Additionally, the earlier categories 'usually cure', 'don't know' and 'can't be cured' were defined as follows: 'can't be cured' = aware; 'don't know + usually cured' = unaware. The intent of the graphic was to show how many Americans are aware and unaware, the new categories made it direct. In order to communicate this contrasting categories, I chose divergent chart. Additionally, green color was used to create a focus on awareness. Thus in this way I simplified the original visual to communicate the same data.
