@@ -9,42 +9,28 @@ Firstly I can see a stacked bar graph with % values. Then my attention is drawn 
 #### Initial Observations
 After spending a couple of minutes, now I start understanding that the labels on the left display demographic information. It is still difficult to understand the region/country this graph represents. A short description below the title suggests that this data is about an experiment or study conducted on awareness about use of antibiotics. While the graph and demographic information on left helps in understanding the bifurcation of people's knowledge, its unclear which attribute is more important.  
 
-<table style="width:1000px;">
+<table style="width:100%; border-collapse: collapse;">
   <tr>
-    <th><strong>What I like?</strong></th>
-  </tr>
-  <tr>
-    <td>
+    <td style="border: 1px solid #ddd; padding: 10px; vertical-align: top;">
+      <strong>What I like?</strong><br><br>
       - I like how the labels are in grey and go in the background.<br><br>
       - I also like how the stacked bar chart is limited to 3 attributes, as it is easy to compare 3 quantities.<br><br>
       - Having a title, description, and legend is really helpful in building context for this chart, so I like that.
     </td>
-  </tr>
-  <tr>
-    <th><strong>What I don't like?</strong></th>
-  </tr>
-  <tr>
-    <td>
+    <td style="border: 1px solid #ddd; padding: 10px; vertical-align: top;">
+      <strong>What I don't like?</strong><br><br>
       - I don't like the clutter on the left, it's creating confusion and I'm unable to determine which one is more important.<br><br>
       - I also dislike how the graph doesn't talk about any specific location or region.<br><br>
       - The confusion created by multiple comparisons leads to a lack of focus.
     </td>
-  </tr>
-  <tr>
-    <th><strong>What I wish I saw?</strong></th>
-  </tr>
-  <tr>
-    <td>
+    <td style="border: 1px solid #ddd; padding: 10px; vertical-align: top;">
+      <strong>What I wish I saw?</strong><br><br>
       - I wish there was clear distinction and space between each demographic category.<br><br>
       - I wish the title or description had a region to which this demographic population belongs.<br><br>
       - Separate sub-titles or descriptions for each category would help the reader understand what to look for.
     </td>
-  </tr>
-  <tr>
-    <th><strong>What I think I would do differently?</strong></th>
-  </tr>
-  <tr>
-    <td>
+    <td style="border: 1px solid #ddd; padding: 10px; vertical-align: top;">
+      <strong>What I think I would do differently?</strong><br><br>
       - I would add location/region to build more context for the target audience.<br><br>
       - I would split this chart into 4 distinct graphics or create clear sections to avoid confusion caused by proximity of bar charts.<br><br>
       - Subtitles or descriptions for each section would guide users on what to focus on.
