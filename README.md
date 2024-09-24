@@ -15,4 +15,5 @@ Here are my cool data visualization projects.
 
 #### 1. [Government Debt](/GOVTDEBT.md)
 #### 2. [Infection Awareness](/INFAWARE.md)
+#### 3. [Final Project](/FinalProject.md)
 
