@@ -1,13 +1,14 @@
 # Final Project  
-## Part 1  
-### Project Outline    
+#### Part 1 
+--- 
+## Project Outline    
 Staying hydrated and energized is key to staying healthy—water fuels everything from digestion to keeping us awake during those afternoon slumps. Yet, in the U.S., many of us seem to prefer quenching our thirst with sugary drinks instead.Sure, they taste great, but they're also sneaky little contributors to obesity and type 2 diabetes. By opting for water or healthier alternatives, we can dodge those health risks and stay hydrated without the sugar overload. Remember, small, smart swaps today might just lead to a more energized—and less sugar-crashed—tomorrow!  
   
 #### The Core Concept   
 We all know the drill—when we need a quick energy boost, we often grab a juice, soda, or maybe even an energy drink to power through the day. These are the go-to drinks that make us feel instantly satisfied. But here's the catch: they can easily sneak in more sugar than we bargained for, leading to unwanted side effects like obesity and diabetes. This project uses data visualizations to show just how much sugar we're sipping on, and the not-so-sweet impact it has on our health. Plus, it busts a few myths about so-called "healthier" sugar alternatives—because not all that glitters is stevia!  
-
+--- 
      
-### Project Structure  
+## Project Structure  
 #### Setup: 
 This section focuses on understanding the consumption pattern of soft drinks and at the same time understand how much sugar content these beverages have.
 1) Momentary Satisfaction: This will highlight how soft drinks are most satisfying beverages reported by US consumers. Additionally, it will show the daily consumption pattern for adults and children in USA.    
@@ -21,13 +22,13 @@ This section focuses on showing the consequences of consuming excess sugar and i
 #### Resolution:  
 1) Compounding effect: This section focuses on showing the compunding effect of consuming less sugar or gradually cutting down excess sugar from one's diet.  
 2) Suggestive Changes: This section will also suggest alternatives and their recommended dosage.
-
+--- 
    
-### Initial Sketches
+## Initial Sketches
 
 
 ---    
-### Data
+## Data
 
 #### Global Sugar Consumption  
 According to data from the [World Population Review](https://worldpopulationreview.com/country-rankings/sugar-consumption-by-country), the U.S. ranks among the top countries for sugar consumption per capita. A large portion of this sugar comes from sugary drinks like sodas, energy drinks, and sweetened teas, which are consumed regularly by a significant percentage of the population. This high intake of sugar from beverages contributes to the growing global concern over health risks linked to excessive sugar consumption.
@@ -44,9 +45,9 @@ Obesity, driven in part by excessive sugar intake, especially from sugary drinks
 #### Percentage of Deaths by Diabetes Type  
 The [Deaths from Diabetes by Type](https://ourworldindata.org/grapher/deaths-from-diabetes-by-type?country=OWID_WRL~USA) chart from Our World in Data demonstrates the deadly consequences of diabetes, especially type 2 diabetes, which is closely linked to high sugar consumption. Sugary drinks contribute significantly to insulin resistance and weight gain, both of which are major factors in the development of type 2 diabetes. By highlighting the sugar content in these drinks, the connection between beverage choices and diabetes becomes clearer.
 
-
+--- 
    
-### Method Medium
+## Method Medium
 #### Figma, Flourish, Tableau
 I will use the combination of these softwares to build data visualizations to build my story. Tableau and Flourish are great in building interactive data visualisations whereas Figma can help me with static data visualizations.
 
