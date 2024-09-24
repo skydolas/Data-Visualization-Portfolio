@@ -12,6 +12,7 @@ We all know the drill—when we need a quick energy boost, we often grab a juice
 --- 
      
 ## Project Structure  
+<img src="./StoryArc.jpg" alt="Story Arc" width="800" height="600">
 #### Setup: 
 This section focuses on understanding the consumption pattern of soft drinks and at the same time understand how much sugar content these beverages have.
 1) Momentary Satisfaction: This will highlight how soft drinks are most satisfying beverages reported by US consumers. Additionally, it will show the daily consumption pattern for adults and children in USA.    
