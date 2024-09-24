@@ -27,4 +27,11 @@ This section focuses on showing the consequences of consuming excess sugar and i
 ### Data
 
 ### Method Medium
+#### Figma, Flourish, Tableau
+I will use the combination of these softwares to build data visualizations to build my story. Tableau and Flourish are great in building interactive data visualisations whereas Figma can help me with static data visualizations.
 
+#### Figma/Google Slides
+Figma is best for end-to-end projects, so I can build some visualizations and presentation within same platform. However, I might shift to Google Slides for presentation as it offers much more flexibility and accessibility.
+
+#### Shorthand
+Shorthand will be used to have detailed narrative and elaborate version of the presentation. The software includes features that present the content in an engaging, interactive way, making it a valuable tool for users to explore independently and at their own pace
