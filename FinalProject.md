@@ -26,8 +26,24 @@ This section focuses on showing the consequences of consuming excess sugar and i
 ### Initial Sketches
 
 
-   
+---    
 ### Data
+
+#### Global Sugar Consumption  
+According to data from the [World Population Review](https://worldpopulationreview.com/country-rankings/sugar-consumption-by-country), the U.S. ranks among the top countries for sugar consumption per capita. A large portion of this sugar comes from sugary drinks like sodas, energy drinks, and sweetened teas, which are consumed regularly by a significant percentage of the population. This high intake of sugar from beverages contributes to the growing global concern over health risks linked to excessive sugar consumption.
+
+#### Calories in Drinks  
+The CDC’s [Rethink Your Drink](https://www.cdc.gov/healthy-weight-growth/rethink-your-drink/index.html) resource highlights how sugary beverages are packed with hidden calories. For instance, a single can of soda can contain over 150 calories, all from sugar. Energy drinks, sweetened teas, and flavored juices often contain even more. These drinks, while providing instant gratification, can quickly exceed daily caloric needs when consumed regularly, leading to weight gain and increasing the risk of health issues.
+
+#### Recommended Sugar Intake  
+The [American Heart Association](https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/sugar/how-much-sugar-is-too-much#:~:text=Men%20should%20consume%20no%20more,or%20100%20calories)%20per%20day) recommends that men consume no more than 36 grams (150 calories) of added sugar per day, and women no more than 25 grams (100 calories). Many sugary drinks exceed these limits in just one serving. For example, a single 12-ounce soda often contains more than 40 grams of sugar—surpassing the daily limit in just one drink. This data emphasizes how easy it is to unknowingly consume too much sugar through beverages alone, putting people at risk for serious health issues.
+
+#### Deaths Due to Obesity in the USA  
+Obesity, driven in part by excessive sugar intake, especially from sugary drinks, is a leading public health crisis. Data from [Our World in Data](https://ourworldindata.org/grapher/deaths-due-to-obesity?tab=chart&country=~USA) shows a rising trend in deaths linked to obesity in the U.S. By consuming high-calorie sugary drinks regularly, individuals increase their risk of becoming overweight or obese, leading to serious health complications.
+
+#### Percentage of Deaths by Diabetes Type  
+The [Deaths from Diabetes by Type](https://ourworldindata.org/grapher/deaths-from-diabetes-by-type?country=OWID_WRL~USA) chart from Our World in Data demonstrates the deadly consequences of diabetes, especially type 2 diabetes, which is closely linked to high sugar consumption. Sugary drinks contribute significantly to insulin resistance and weight gain, both of which are major factors in the development of type 2 diabetes. By highlighting the sugar content in these drinks, the connection between beverage choices and diabetes becomes clearer.
+
 
    
 ### Method Medium
