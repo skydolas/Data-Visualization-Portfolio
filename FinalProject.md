@@ -30,9 +30,11 @@ This section focuses on showing the consequences of consuming excess sugar and i
    
 --- 
    
-## Initial Sketches
-
-
+## Initial Sketches  
+<img src="./Setup.jpg" alt="Story Arc" width="800" height="600">  
+<img src="./Conflict 1.jpg" alt="Story Arc" width="800" height="600">  
+<img src="./Conflict 2.jpg" alt="Story Arc" width="800" height="600">  
+<img src="./Resolution.jpg" alt="Story Arc" width="800" height="600">  
 ---    
 ## Data
 
