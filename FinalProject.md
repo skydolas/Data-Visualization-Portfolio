@@ -36,6 +36,7 @@ This section focuses on showing the consequences of consuming excess sugar and i
 <img src="./Conflict 2.jpg" alt="Story Arc" width="800" height="600">  
 <img src="./Resolution.jpg" alt="Story Arc" width="800" height="600">  
 ---    
+
 ## Data
 
 #### Global Sugar Consumption  
