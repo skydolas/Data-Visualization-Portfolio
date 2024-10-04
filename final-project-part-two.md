@@ -26,12 +26,13 @@ Based on this feedback I decided to do following:
 
 Text here!
 
-| Goal | Questions to Ask |
-|------|------------------|
-|To understand the flow of the story | Were there any parts where you were confused?| 
-|To understand the highlighting moments | What stood out most to you in this entire story? |
-|To understand how are the data visualizations working | What are your views on the data visualizations? What did you understand? |
-|Additional comments | Do you have anything more to add? |
+| Goal                                     | Questions to Ask                                                                   |
+|------------------------------------------|------------------------------------------------------------------------------------|
+| To understand the flow of the story      | Were there any parts where you were confused?                                       |
+| To understand the highlighting moments   | What stood out most to you in this entire story?                                    |
+| To understand how the data visualizations are working | What are your views on the data visualizations? What did you understand?            |
+| Additional comments                      | Do you have anything more to add?                                                  |
+
 
 
 ## Interview findings
@@ -49,13 +50,15 @@ Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| There were 3 main findings: </br> 1) Amount of sugar in soft drinks visualization was taking some time to read through. Which is not necessarily bad but can be made better in the final version. </br> 2) Images for the CTA is a nice suggestion instead of just links, can give users better context. </br> 3)For the initial slides in the final version, the image should either change or remain static in background to avoid scrolling confusion. | - Improve the data visualizations to match the overall theme and make it simpler. </br> - Adjust the initial 3 slides to build more context and alleviate scrolling confusion. </br> - Try experimenting with visuals for 1drink= 3 peoples sugar. </br> - Add imagery for CTA and a small description
+| There were 3 main findings: <br> 1) Amount of sugar in soft drinks visualization was taking some time to read through. Which is not necessarily bad but can be made better in the final version. <br> 2) Images for the CTA is a nice suggestion instead of just links, can give users better context. <br> 3) For the initial slides in the final version, the image should either change or remain static in the background to avoid scrolling confusion. | - Improve the data visualizations to match the overall theme and make it simpler. <br> - Adjust the initial 3 slides to build more context and alleviate scrolling confusion. <br> - Try experimenting with visuals for 1 drink = 3 people's sugar. <br> - Add imagery for CTA and a small description. |
 
 
 Text here!
 
 # Moodboards 
 > The moodboard here focuses on creating a visual and typographical style that suits the context of softdrinks. 
+
+<img src="./Moodboard.png" alt="Moodboard" width="800" height="600">
 
 
 
