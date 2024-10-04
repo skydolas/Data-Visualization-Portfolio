@@ -3,7 +3,7 @@
 > I used a 2 staged approach to build wireframes and storyboard. To understand the detailed flow of the story I focused on story flow and asked 3 people in the age group (25-30yrs). Here the focus was understanding the slide by slide detailed story flow before creating Hi-Fidelity draft. Once the flow was set, I used Figma and Shorthand in combination to create the Hi-Fidelity storyboard draft.
 
 User feedback on story flow:  
-<img src="./Detailed Story Flow.png" alt="Detailed Story Flow" width="800" height="600">
+<img src="./Detailed Story Flow.png" alt="Detailed Story Flow" width="" height="600">
 <table>
   <thead>
     <tr>
