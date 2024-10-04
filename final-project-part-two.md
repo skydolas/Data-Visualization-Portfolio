@@ -6,7 +6,7 @@ User feedback on story flow: </br>
 | Questions | Interview 1 | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
 | How do you feel about the overall flow of the story? | Overall flow of the story is clear. However, slide 6 seems unnecessary. Instead, bring slide 8 in place of slide 6. | In the beginning of the story, there isn't much clarity about the target audience. Maybe you can include demographic or country-specific information in slide 5. Additionally, slide 5 should be swapped with slide 4. | I really like the way the narration is working. I believe the jaw-drop moment is slide 8, which should come earlier in the presentation. Maybe add some visuals to communicate the idea better. |
-| What do you think about CTAs? | I believe you should focus on suggesting alternatives in CTAs instead of telling safe sugar limits. | For CTAs, right now you're saying how much sugar is safe, but maybe add how much impact it can have if you use healthier alternatives.| Just suggest alternatives. That would be helpful.                                                                        |
+| What do you think about CTAs? | I believe you should focus on suggesting alternatives in CTAs instead of telling safe sugar limits. | For CTAs, right now you're saying how much sugar is safe, but maybe add how much impact it can have if you use healthier alternatives.| Just suggest alternatives. That would be helpful. |
 
 
 Based on this feedback I decided to do following:
