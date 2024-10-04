@@ -58,7 +58,7 @@ Text here!
 # Moodboards 
 > The moodboard here focuses on creating a visual and typographical style that suits the context of softdrinks. 
 
-<img src="./Moodboard.png" alt="Moodboard" width="800" height="600">
+<img src="./Mood board.png" alt="Mood board" width="800" height="600">
 
 
 
