@@ -79,7 +79,7 @@ The answers of the questions 3 was covered in the above question, so didn't have
 # Moodboards 
 > The moodboard here focuses on creating a visual and typographical style that suits the context of softdrinks. 
 
-<img src="./Mood board.png" alt="Mood board" width="800" height="600">
+<img src="./Mood board.png" alt="Mood board" width="" height="600">
 
 
 
