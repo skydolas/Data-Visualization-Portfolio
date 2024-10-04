@@ -24,7 +24,7 @@ Based on this feedback I decided to do following:
 ## Interview script
 > After showcasing the storyboard to the audience ask the following questions to understand their view points. 
 
-Text here!
+
 
 | Goal                                     | Questions to Ask                                                                   |
 |------------------------------------------|------------------------------------------------------------------------------------|
