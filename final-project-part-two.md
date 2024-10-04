@@ -22,27 +22,26 @@ Based on this feedback I decided to do following:
 
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
+> After showcasing the storyboard to the audience ask the following questions to understand their view points. 
 
 Text here!
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+|To understand the flow of the story | Were there any parts where you were confused?| 
+|To understand the highlighting moments | What stood out most to you in this entire story? |
+|To understand how are the data visualizations working | What are your views on the data visualizations? What did you understand? |
+|Additional comments | Do you have anything more to add? |
 
-
-Text here!
 
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
 Text here!
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
+| Questions               | Interview 1  | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
+| Were there any parts where you were confused? | Not really confused. But it took some time to understand 1 drink = 3 people's sugar slide. </br>  How          |             |             |
 |                         |                                |             |             |
 |                         |                                |             |             |
 
