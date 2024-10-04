@@ -1,8 +1,8 @@
 
 # Wireframes / storyboards
-> I used a 2 staged approach to build wireframes and storyboard. To understand the detailed flow of the story I focused on rough sketches and asked 3 people in the age group (25-30yrs). Here the focus was understanding the slide by slide detailed story flow before creating Hi-Fidelity draft. Once the flow was set, I used Figma and Shorthand in combination to create the Hi-Fidelity storyboard draft.
+> I used a 2 staged approach to build wireframes and storyboard. To understand the detailed flow of the story I focused on story flow and asked 3 people in the age group (25-30yrs). Here the focus was understanding the slide by slide detailed story flow before creating Hi-Fidelity draft. Once the flow was set, I used Figma and Shorthand in combination to create the Hi-Fidelity storyboard draft.
 
-User feedback on sketch draft:
+User feedback on story flow:
 | Questions               | Interview 1  | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
 | How do you feel about the overall flow of the story? | Overall flow of the story is clear. However, slide 6 seems unecessary. Instead bring slide 8 inplace of slide 6.| In the beginning of the story there isn't much clarity about the target audience. May be you can include the demographic or country specific informatio in slide 5. Additionally, slide 5 should be swaped with slide 4.| I really like the way the narration is working, I believe the jawdrop moment is slide 8, it should come early in the presentation, and may be add some visuals to communicate the idea better. |
