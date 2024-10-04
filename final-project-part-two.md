@@ -3,10 +3,31 @@
 > I used a 2 staged approach to build wireframes and storyboard. To understand the detailed flow of the story I focused on story flow and asked 3 people in the age group (25-30yrs). Here the focus was understanding the slide by slide detailed story flow before creating Hi-Fidelity draft. Once the flow was set, I used Figma and Shorthand in combination to create the Hi-Fidelity storyboard draft.
 
 User feedback on story flow: </br>  
-| Questions | Interview 1 | Interview 2 | Interview 3 |
-|-------------------------|--------------------------------|-------------|-------------|
-| How do you feel about the overall flow of the story? | Overall flow of the story is clear. However, slide 6 seems unnecessary. Instead, bring slide 8 in place of slide 6. | In the beginning of the story, there isn't much clarity about the target audience. Maybe you can include demographic or country-specific information in slide 5. Additionally, slide 5 should be swapped with slide 4. | I really like the way the narration is working. I believe the jaw-drop moment is slide 8, which should come earlier in the presentation. Maybe add some visuals to communicate the idea better. |
-| What do you think about CTAs? | I believe you should focus on suggesting alternatives in CTAs instead of telling safe sugar limits. | For CTAs, right now you're saying how much sugar is safe, but maybe add how much impact it can have if you use healthier alternatives.| Just suggest alternatives. That would be helpful. |
+<table>
+  <thead>
+    <tr>
+      <th>Questions</th>
+      <th>Interview 1</th>
+      <th>Interview 2</th>
+      <th>Interview 3</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>How do you feel about the overall flow of the story?</td>
+      <td>Overall flow of the story is clear. However, slide 6 seems unnecessary. Instead, bring slide 8 in place of slide 6.</td>
+      <td>In the beginning of the story, there isn't much clarity about the target audience. Maybe you can include demographic or country-specific information in slide 5. Additionally, slide 5 should be swapped with slide 4.</td>
+      <td>I really like the way the narration is working. I believe the jaw-drop moment is slide 8, which should come earlier in the presentation. Maybe add some visuals to communicate the idea better.</td>
+    </tr>
+    <tr>
+      <td>What do you think about CTAs?</td>
+      <td>I believe you should focus on suggesting alternatives in CTAs instead of telling safe sugar limits.</td>
+      <td>For CTAs, right now you're saying how much sugar is safe, but maybe add how much impact it can have if you use healthier alternatives.</td>
+      <td>Just suggest alternatives. That would be helpful.</td>
+    </tr>
+  </tbody>
+</table>
+
 
 
 Based on this feedback I decided to do following:
