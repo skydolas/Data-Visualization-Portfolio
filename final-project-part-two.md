@@ -9,12 +9,17 @@ User feedback on story flow:
 |||||
 | What do you think about CTAs?| I believe you should focus on suggesting alternatives in CTAs instead of telling safe sugar limits.| For CTAs rightnow you are saying how much sugar is safe, but may be what you need to do is add how much impact it can have say if you use health alternatives.| Just suggest alternatives. That would be helpful.|
 
+Based on this feedback I decided to do following:
+1) Delete existing slide 6 and swap it with slide 8. The reason for doing so, was I haven't drawn comparison with water anywhere and all of sudden having water was confusing for users.
+2) The CTA suggestions were quite helpful, I decided to go ahead with adding healthy alternatives for the drinks.
+
+[Storyboarding Draft Here](https://preview.shorthand.com/9EqXDqt6kW4w3XgR)
+
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
+> The target audience for this research are mid-aged adults who are mature and are between (age 25-50). As the body transitions in this age people are more prone to sedentary life and the risk of diabetese. This is the reason I chose to have these set of people as audience. For the research purpose, I interviewed people between age 25-35 who are graduate students or working full-time, who are busy with their daily work or academic lives. The 3 interviews shed light on what can be further improved in the storyboard. 
 
-Text here!
 
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
