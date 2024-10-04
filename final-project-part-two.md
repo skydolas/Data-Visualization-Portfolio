@@ -41,9 +41,9 @@ Text here!
 | Questions               | Interview 1  | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
 | Were there any parts where you were confused? | -Not really confused. But it took some time to understand 1 drink = 3 people's sugar slide. </br> -May be you can add a small description or graphics for the CTA aswell. | -Nothing in particular, but the initial slides have same image so they are getting repetitive. </br> Can you add images for CTA instead of just links? It will help me understand better.| -Everything was seamless, but the softdrinks visual takes a bit of time to read while scrolling.|
-| What stood out the most to you in this entire story? | -1 drink=3 people's sugar, that was quite shocking, wasn't aware of that before.| -Two things stood out: </br>  66% of americans drink one soda a day.  </br> 1 drink=3 people's sugar, that was a nice hook. |  For me the amount of sugar in in different drinks was quite informative, it gave me an idea of how much I should consume if at all I have to.|
+| What stood out the most to you in this entire story? | -1 drink=3 people's sugar, that was quite shocking, wasn't aware of that before.| -Two things stood out: </br>  66% of americans drink one soda a day.  </br> 1 drink=3 people's sugar, that was a nice hook. |  For me the amount of sugar in in different drinks was quite informative, it gave me an idea of how much I should consume if at all I have to.|  
 
-
+The answers of the questions 3 was covered in the above question, so didn't have to probe users for separate answers.
 
 # Identified changes for Part III
 
