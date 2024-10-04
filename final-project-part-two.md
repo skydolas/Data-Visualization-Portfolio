@@ -6,7 +6,7 @@ User feedback on sketch draft:
 | Questions               | Interview 1  | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
 | How do you feel about the overall flow of the story? | Overall flow of the story is clear. However, slide 6 seems unecessary. Instead bring slide 8 inplace of slide 6.| In the beginning of the story there isn't much clarity about the target audience. May be you can include the demographic or country specific informatio in slide 5. Additionally, slide 5 should be swaped with slide 4.| I really like the way the narration is working, I believe the jawdrop moment is slide 8, it should come early in the presentation, and may be add some visuals to communicate the idea better. |
-|-------------------------|--------------------------------|-------------|-------------|
+|||||
 | What do you think about CTAs?| I believe you should focus on suggesting alternatives in CTAs instead of telling safe sugar limits.| For CTAs rightnow you are saying how much sugar is safe, but may be what you need to do is add how much impact it can have say if you use health alternatives.| Just suggest alternatives. That would be helpful.|
 
 # User research 
