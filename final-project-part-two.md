@@ -53,7 +53,6 @@ The answers of the questions 3 was covered in the above question, so didn't have
 | There were 3 main findings: <br> 1) Amount of sugar in soft drinks visualization was taking some time to read through. Which is not necessarily bad but can be made better in the final version. <br> 2) Images for the CTA is a nice suggestion instead of just links, can give users better context. <br> 3) For the initial slides in the final version, the image should either change or remain static in the background to avoid scrolling confusion. | - Improve the data visualizations to match the overall theme and make it simpler. <br> - Adjust the initial 3 slides to build more context and alleviate scrolling confusion. <br> - Try experimenting with visuals for 1 drink = 3 people's sugar. <br> - Add imagery for CTA and a small description. |
 
 
-Text here!
 
 # Moodboards 
 > The moodboard here focuses on creating a visual and typographical style that suits the context of softdrinks. 
