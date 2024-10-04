@@ -35,9 +35,7 @@ Text here!
 
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
-Text here!
 
 | Questions               | Interview 1  | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
@@ -47,17 +45,13 @@ Text here!
 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
+
 
 Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+| There were 3 main findings: </br> 1) Amount of sugar in soft drinks visualization was taking some time to read through. Which is not necessarily bad but can be made better in the final version. </br> 2) Images for the CTA is a nice suggestion instead of just links, can give users better context. </br> 3)For the initial slides in the final version, the image should either change or remain static in background to avoid scrolling confusion. | Describe what, if any changes you anticipate making to address the observation. | - Improve the data visualizations to match the overall theme and make it simpler. </br> - Adjust the initial 3 slides to build more context and alleviate scrolling confusion. </br> - Try experimenting with visuals for 1drink= 3 peoples sugar. </br> - Add imagery for CTA and a small description
 
 > ...include any final thoughts you have here. 
 
