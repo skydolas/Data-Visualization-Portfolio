@@ -6,8 +6,8 @@
    <a href="/final-project-part-three.md">Final Project: Part 3</a> |
 </div>
 
-# Final Project  
-#### Part 1   
+# Final Project: Part 1  
+  
 ---  
   
 ## Project Outline    
