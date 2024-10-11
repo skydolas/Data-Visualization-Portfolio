@@ -1,27 +1,5 @@
 
-<style>
-  .top-nav {
-    display: flex;
-    justify-content: center;
-    position: fixed;
-    top: 0;
-    width: 100%;
-    background-color: #f8f8f8;
-    padding: 10px;
-    box-shadow: 0 4px 2px -2px gray;
-    z-index: 1000;
-  }
-  .top-nav a {
-    margin: 0 15px;
-    text-decoration: none;
-    font-size: 16px;
-    font-weight: bold;
-    color: #007bff;
-  }
-  .top-nav a:hover {
-    color: #0056b3;
-  }
-</style>
+
 
 <div class="top-nav">
   <a href="/GOVTDEBT.md">Government Debt</a>
