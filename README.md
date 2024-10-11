@@ -2,11 +2,11 @@
 
 
 <div class="top-nav">
-  <a href="/GOVTDEBT.md"> Government Debt </a>   
-  <a href="/INFAWARE.md"> Infection Awareness </a>  
-  <a href="/FinalProject.md"> Final Project: Part 1 </a>  
-  <a href="/final-project-part-two.md"> Final Project: Part 2 </a>  
-  <a href="/final-project-part-three.md"> Final Project: Part 3 </a>  
+  <a href="/GOVTDEBT.md">Government Debt</a>   
+  <a href="/INFAWARE.md">Infection Awareness</a>  
+  <a href="/FinalProject.md">Final Project: Part 1</a>  
+  <a href="/final-project-part-two.md">Final Project: Part 2</a>  
+  <a href="/final-project-part-three.md">Final Project: Part 3</a>  
 </div>
 
 # Data-Visualization-Portfolio
