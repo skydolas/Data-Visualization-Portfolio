@@ -1,4 +1,33 @@
-
+<style>
+  .top-nav {
+    display: flex;
+    justify-content: center;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: #f8f8f8;
+    padding: 10px;
+    box-shadow: 0 4px 2px -2px gray;
+    z-index: 1000;
+  }
+  .top-nav a {
+    flex: 1;
+    text-align: center;
+    padding: 10px 0;
+    margin: 0 10px;
+    background-color: #e0e0e0;
+    border-radius: 8px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    color: #007bff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  .top-nav a:hover {
+    background-color: #d0d0d0;
+    color: #0056b3;
+  }
+</style>
 
 
 <div class="top-nav">
