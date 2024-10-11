@@ -1,3 +1,18 @@
+<p align="center">
+  <a href="https://github.com/skydolas/Data-Visualization-Portfolio
+/blob/main/readme.md">
+    <img src="https://img.shields.io/badge/Go_to-Introduction-blue" alt="Home">
+  </a>
+  <a href="https://github.com/skydolas/Data-Visualization-Portfolio
+/blob/main/FinalProject.md"
+    <img src="https://img.shields.io/badge/Go_to-Setup-green" alt="Final:P1">
+  </a>
+  <a href="https://github.com/skydolas/Data-Visualization-Portfolio
+/blob/main/final-project-part-two.md"
+    <img src="https://img.shields.io/badge/Go_to-Usage-orange" alt="Final:P2">
+  </a>
+</p>
+
 # Data-Visualization-Portfolio
 This is a compilation of all the data visualization projects done in "Telling Stories With Data" at CMU.
 
@@ -15,6 +30,6 @@ Here are my cool data visualization projects.
 
 #### 1. [Government Debt](/GOVTDEBT.md)
 #### 2. [Infection Awareness](/INFAWARE.md)
-#### 3. [Final Project](/FinalProject.md)
+#### 3. [Final Project: Part 1](/FinalProject.md)
 #### 4. [Final Project: Part 2](/final-project-part-two.md)
-
+#### 4. [Final Project: Part 2](/final-project-part-three.md)
