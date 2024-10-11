@@ -1,11 +1,48 @@
+<style>
+  .top-nav {
+    width: 100%;
+    background-color: #f8f8f8;
+    padding: 10px;
+    box-shadow: 0 4px 2px -2px gray;
+    z-index: 1000;
+    display: table;
+  }
+  .top-nav table {
+    width: 100%;
+    margin: 0 auto;
+    border-collapse: collapse;
+  }
+  .top-nav td {
+    text-align: center;
+    padding: 10px;
+    background-color: #e0e0e0;
+    border-radius: 8px;
+    margin: 0 10px;
+  }
+  .top-nav a {
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    color: #007bff;
+  }
+  .top-nav a:hover {
+    color: #0056b3;
+  }
+</style>
 
 <div class="top-nav">
- | <a href="/GOVTDEBT.md">Government Debt</a> |  
-   <a href="/INFAWARE.md">Infection Awareness</a> |
-   <a href="/FinalProject.md">Final Project: Part 1</a> |
-   <a href="/final-project-part-two.md">Final Project: Part 2</a> | 
-   <a href="/final-project-part-three.md">Final Project: Part 3</a> |
+  <table>
+    <tr>
+      <td><a href="/README.md">Home</a></td>
+      <td><a href="/GOVTDEBT.md">Government Debt</a></td>
+      <td><a href="/INFAWARE.md">Infection Awareness</a></td>
+      <td><a href="/FinalProject.md">Final Project: Part 1</a></td>
+      <td><a href="/final-project-part-two.md">Final Project: Part 2</a></td>
+      <td><a href="/final-project-part-three.md">Final Project: Part 3</a></td>
+    </tr>
+  </table>
 </div>
+
 
 # Data-Visualization-Portfolio
 This is a compilation of all the data visualization projects done in "Telling Stories With Data" at CMU.
