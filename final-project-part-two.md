@@ -1,10 +1,6 @@
-<div class="top-nav">
- | <a href="/README.md">Home</a> |  
-   <a href="/GOVTDEBT.md">Government Debt</a> |
-   <a href="/INFAWARE.md">Infection Awareness</a> |
-   <a href="/FinalProject.md">Final Project: Part 1</a> | 
-   <a href="/final-project-part-three.md">Final Project: Part 3</a> |
-</div>
+| [Home](./README.md)              | [Government Debt](./GOVTDEBT.md)  | [Infection Awareness](./INFAWARE.md) | [Final Project: Part 1](./FinalProject.md) | [Final Project: Part 2](./final-project-part-two.md) | [Final Project: Part 3](./final-project-part-three.md) |
+|-----------------------------------|-------------------------------------|---------------------------------------|-----------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|
+
    
 # Final Project: Part 2        
 
