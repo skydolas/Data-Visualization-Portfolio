@@ -1,34 +1,3 @@
-<style>
-  .top-nav {
-    width: 100%;
-    background-color: #f8f8f8;
-    padding: 10px;
-    box-shadow: 0 4px 2px -2px gray;
-    z-index: 1000;
-    display: table;
-  }
-  .top-nav table {
-    width: 100%;
-    margin: 0 auto;
-    border-collapse: collapse;
-  }
-  .top-nav td {
-    text-align: center;
-    padding: 10px;
-    background-color: #e0e0e0;
-    border-radius: 8px;
-    margin: 0 10px;
-  }
-  .top-nav a {
-    text-decoration: none;
-    font-size: 16px;
-    font-weight: bold;
-    color: #007bff;
-  }
-  .top-nav a:hover {
-    color: #0056b3;
-  }
-</style>
 
 <div class="top-nav">
   <table>
