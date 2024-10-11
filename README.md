@@ -1,4 +1,26 @@
-<p align="center">
+<style>
+  .top-nav {
+    display: flex;
+    justify-content: center;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: #f8f8f8;
+    padding: 10px;
+    box-shadow: 0 4px 2px -2px gray;
+    z-index: 1000;
+  }
+  .top-nav a {
+    margin: 0 10px;
+    text-decoration: none;
+  }
+</style>
+
+<div class="top-nav">
+   <a href="https://github.com/skydolas/Data-Visualization-Portfolio
+/blob/main">
+    <img src="https://img.shields.io/badge/Home" alt="Home">
+  </a>
   <a href="https://github.com/skydolas/Data-Visualization-Portfolio
 /blob/main/GOVTDEBT.md">
     <img src="https://img.shields.io/badge/Govt Debt" alt="Govt Debt">
@@ -17,7 +39,7 @@
       <a href="https://github.com/skydolas/Data-Visualization-Portfolio
 /blob/main/final-project-part-three.md"
     <img src="https://img.shields.io/badge/Go_to-Usage-orange" alt="Final:P3">
-</p>
+</div>
 
 # Data-Visualization-Portfolio
 This is a compilation of all the data visualization projects done in "Telling Stories With Data" at CMU.
