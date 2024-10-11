@@ -17,10 +17,7 @@
 </style>
 
 <div class="top-nav">
-   <a href="https://github.com/skydolas/Data-Visualization-Portfolio
-/blob/main">
-    <img src="https://img.shields.io/badge/Home" alt="Home">
-  </a>
+ 
   <a href="https://github.com/skydolas/Data-Visualization-Portfolio
 /blob/main/GOVTDEBT.md">
     <img src="https://img.shields.io/badge/Govt Debt" alt="Govt Debt">
