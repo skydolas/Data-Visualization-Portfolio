@@ -1,16 +1,7 @@
 
-<div class="top-nav">
-  <table>
-    <tr>
-      <td><a href="/README.md">Home</a></td>
-      <td><a href="/GOVTDEBT.md">Government Debt</a></td>
-      <td><a href="/INFAWARE.md">Infection Awareness</a></td>
-      <td><a href="/FinalProject.md">Final Project: Part 1</a></td>
-      <td><a href="/final-project-part-two.md">Final Project: Part 2</a></td>
-      <td><a href="/final-project-part-three.md">Final Project: Part 3</a></td>
-    </tr>
-  </table>
-</div>
+| [Home](./README.md)              | [Government Debt](./GOVTDEBT.md)  | [Infection Awareness](./INFAWARE.md) | [Final Project: Part 1](./FinalProject.md) | [Final Project: Part 2](./final-project-part-two.md) | [Final Project: Part 3](./final-project-part-three.md) |
+|-----------------------------------|-------------------------------------|---------------------------------------|-----------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|
+
 
 
 # Data-Visualization-Portfolio
