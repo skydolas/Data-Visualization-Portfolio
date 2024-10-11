@@ -7,8 +7,8 @@ This part showcases the journey that went into curating the Part 3 of "Sweet Sed
 ## Inspiration
 I grew up as an athlete, but eventually towards my teenage I became about 95kgs. All thanks to the unhealthy food and lots of soft drinks. When I was 16 I took a resolution of getting fit and indulging in healthy habits, seeing people around me braving through diabetese. That's when my understanding of healthy food and sugar consumption started. This project is an extension of my knowledge and experience over the years, so that young adults around me can understand the effect of sugar consumption visually.
 
-## Behind The Scenes  
-Here is a peep into my Figma board and Tableau where I made iterations before I crafted the final version. I used Tableau to explore datasets and used Figma to translated the final visualizations to the design language as per my moodboard. I found out that fine tuning visuals in Figma helped me quickly iterrate and show improvisations to my users and engage in some deep conversations. Since I only had 3 people, this to and fro helped me refining and delivering the final version. 
+## Target Audience  
+This project is aimed for yound adults in USA. Per my research soft drinks and sugary drinks are consumed on daily basis in USA by young adults either to stay hydrated or to get quick boost in energy. A can of soft drink contains so much sugar that you can add 20-30 pounds of weight in a year if you drink daily. This story is aimed at those young adults who casually srink these sugary drinks for fun or as a source of energy.   
 
 ## Some of the highlighting feedback after Part 2:
 1. The impact of sugar consumptions was not communicated, users were saying the numbers are not helping and may be some visuals would help.      
@@ -16,8 +16,16 @@ Here is a peep into my Figma board and Tableau where I made iterations before I 
 
 
 
-## Target Audience  
-This project is aimed for yound adults in USA. Per my research soft drinks and sugary drinks are consumed on daily basis in USA by young adults either to stay hydrated or to get quick boost in energy. A can of soft drink contains so much sugar that you can add 20-30 pounds of weight in a year if you drink daily. This story is aimed at those young adults who casually srink these sugary drinks for fun or as a source of energy. 
+## Behind The Scenes  
+Here is a peep into my Figma board and Tableau where I made iterations before I crafted the final version. I used Tableau to explore datasets and used Figma to translated the final visualizations to the design language as per my moodboard. I found out that fine tuning visuals in Figma helped me quickly iterrate and show improvisations to my users and engage in some deep conversations. Since I only had 3 people, this to and fro helped me refining and delivering the final version. 
+
+<img src="./Figma.png" alt="Figma" width="" height="800">
+<img src="./Tableau 1 .png" alt="Tableau 1" width="" height="600">
+<img src="./Screenshot 2024-10-11 183701.png" alt="Tableau 1" width="" height="600">
+
+
+
+
 
 ## Reflection  
 In the development of "Sweet Seduction: Choices & their consequences"," I encountered a significant in sourcing data and weaving it together to build the narration. In the begining I was in a difficult spot as I wasn't able to communicate the effect of sugar consumption. However, my constant itteration and user feedback eventually paid off, helping me create a meaningful story that I was visualizing from the begining.  
