@@ -1,16 +1,22 @@
 <p align="center">
   <a href="https://github.com/skydolas/Data-Visualization-Portfolio
-/blob/main/readme.md">
-    <img src="https://img.shields.io/badge/Go_to-Introduction-blue" alt="Home">
+/blob/main/GOVTDEBT.md">
+    <img src="https://img.shields.io/badge/Govt Debt" alt="Govt Debt">
+  </a>
+  <a href="https://github.com/skydolas/Data-Visualization-Portfolio
+/blob/main/INFAWARE.md"
+    <img src="https://img.shields.io/badge/Infaware" alt="Infaware">
   </a>
   <a href="https://github.com/skydolas/Data-Visualization-Portfolio
 /blob/main/FinalProject.md"
-    <img src="https://img.shields.io/badge/Go_to-Setup-green" alt="Final:P1">
+    <img src="https://img.shields.io/badge/Go_to-Usage-orange" alt="Final:P1">
   </a>
-  <a href="https://github.com/skydolas/Data-Visualization-Portfolio
+   <a href="https://github.com/skydolas/Data-Visualization-Portfolio
 /blob/main/final-project-part-two.md"
     <img src="https://img.shields.io/badge/Go_to-Usage-orange" alt="Final:P2">
-  </a>
+      <a href="https://github.com/skydolas/Data-Visualization-Portfolio
+/blob/main/final-project-part-three.md"
+    <img src="https://img.shields.io/badge/Go_to-Usage-orange" alt="Final:P3">
 </p>
 
 # Data-Visualization-Portfolio
