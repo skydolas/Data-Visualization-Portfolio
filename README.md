@@ -1,14 +1,5 @@
 
-<table>
-  <tr>
-    <td> [Home](./README.md) </td>
-    <td>[Government Debt](./GOVTDEBT.md) </td>
-    <td>[Infection Awareness](./INFAWARE.md) </td>
-    <td> [Final Project: Part 1](./FinalProject.md) </td>
-    <td> [Final Project: Part 2](./final-project-part-two.md) </td>
-    <td> [Final Project: Part 3](./final-project-part-three.md) </td>
-  </tr>
-</table>
+| [Home](./README.md)              | [Government Debt](./GOVTDEBT.md)  | [Infection Awareness](./INFAWARE.md) | [Final Project: Part 1](./FinalProject.md) | [Final Project: Part 2](./final-project-part-two.md) | [Final Project: Part 3](./final-project-part-three.md) |
 
 # Data-Visualization-Portfolio
 This is a compilation of all the data visualization projects done in "Telling Stories With Data" at CMU.
