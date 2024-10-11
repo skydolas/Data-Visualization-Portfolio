@@ -29,14 +29,15 @@ This final project is a reminder to the young adults in USA who consume soft dri
 
 ## References
 
-#### Deaths due to type 2 diabetes:
+### Deaths due to type 2 diabetes:
 Roser, M., Ritchie, H., & Ortiz-Ospina, E. (2024). Deaths from diabetes by type. Our World in Data.  
 https://ourworldindata.org/grapher/deaths-from-diabetes-by-type?country=OWID_WRL~USA
 
 IHME, Global Burden of Disease (2024) – with minor processing by Our World in Data. “Type 2 Diabetes” [dataset]. IHME, Global Burden of Disease, “Global Burden of Disease - Deaths and DALYs” [original data].
 
+---
 
-#### Amount of sugar in a drink:
+### Amount of sugar in a drink:
 Bender, R. (2023, May 16). Guess how much sugar is in a can of soda? Verywell Fit.   
 https://www.verywellfit.com/guess-how-much-sugar-is-in-a-can-of-soda-2506919  
 
@@ -46,7 +47,9 @@ https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/sugar/added-sug
 Callon, N. (2012). Soft drink sugar awareness [Photograph]. Public domain, via Wikimedia Commons.  
 https://upload.wikimedia.org/wikipedia/commons/c/ce/MPOTY_2012_soft_drink_sugar_awareness.jpg.  
 
-#### Soft drink consumption in USA:
+--- 
+
+### Soft drink consumption in USA:
 Centers for Disease Control and Prevention. (2021, May 27). Sugar-sweetened beverage intake. CDC.   
 https://www.cdc.gov/nutrition/data-statistics/sugar-sweetened-beverages-intake.html  
 
@@ -54,13 +57,17 @@ Soft drink consumer satisfaction:
 American Customer Satisfaction Index. (2024). Nondurable products. ACSI.   
 https://theacsi.org/industries/manufacturing/nondurable-products/  
 
-#### Sugar & type 2 diabetes:
+---
+
+### Sugar & type 2 diabetes:
 Centers for Disease Control and Prevention. (2023, June 7). Insulin resistance and type 2 diabetes. CDC.   
 https://www.cdc.gov/diabetes/about/insulin-resistance-type-2-diabetes.html
 
 Stoll, K. (2023, March 10). Can eating too much sugar cause diabetes? University Hospitals.   
-https://www.uhhospitals.org/blog/articles/2023/03/can-eating-too-much-sugar-cause-diabetes   
+https://www.uhhospitals.org/blog/articles/2023/03/can-eating-too-much-sugar-cause-diabetes  
 
-#### Alternatives to soft drinks:
+---
+
+### Alternatives to soft drinks:
 Plass, S. (2022, December 21). Soda alternatives. Everyday Health.   
 https://www.everydayhealth.com/photogallery/soda-alternatives.aspx  
