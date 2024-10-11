@@ -7,8 +7,7 @@
 </div>
 
 # Final Project: Part 1  
-  
----  
+   
   
 ## Project Outline    
 Staying hydrated and energized is key to staying healthy—water fuels everything from digestion to keeping us awake during those afternoon slumps. Yet, in the U.S., many of us seem to prefer quenching our thirst with sugary drinks instead.Sure, they taste great, but they're also sneaky little contributors to obesity and type 2 diabetes. By opting for water or healthier alternatives, we can dodge those health risks and stay hydrated without the sugar overload. Remember, small, smart swaps today might just lead to a more energized—and less sugar-crashed—tomorrow!  
