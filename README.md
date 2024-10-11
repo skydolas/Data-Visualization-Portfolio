@@ -1,3 +1,4 @@
+
 <style>
   .top-nav {
     display: flex;
@@ -11,31 +12,23 @@
     z-index: 1000;
   }
   .top-nav a {
-    margin: 0 10px;
+    margin: 0 15px;
     text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    color: #007bff;
+  }
+  .top-nav a:hover {
+    color: #0056b3;
   }
 </style>
 
 <div class="top-nav">
- 
-  <a href="https://github.com/skydolas/Data-Visualization-Portfolio
-/blob/main/GOVTDEBT.md">
-    <img src="https://img.shields.io/badge/Govt Debt" alt="Govt Debt">
-  </a>
-  <a href="https://github.com/skydolas/Data-Visualization-Portfolio
-/blob/main/INFAWARE.md"
-    <img src="https://img.shields.io/badge/Infaware" alt="Infaware">
-  </a>
-  <a href="https://github.com/skydolas/Data-Visualization-Portfolio
-/blob/main/FinalProject.md"
-    <img src="https://img.shields.io/badge/Go_to-Usage-orange" alt="Final:P1">
-  </a>
-   <a href="https://github.com/skydolas/Data-Visualization-Portfolio
-/blob/main/final-project-part-two.md"
-    <img src="https://img.shields.io/badge/Go_to-Usage-orange" alt="Final:P2">
-      <a href="https://github.com/skydolas/Data-Visualization-Portfolio
-/blob/main/final-project-part-three.md"
-    <img src="https://img.shields.io/badge/Go_to-Usage-orange" alt="Final:P3">
+  <a href="/GOVTDEBT.md">Government Debt</a>
+  <a href="/INFAWARE.md">Infection Awareness</a>
+  <a href="/FinalProject.md">Final Project: Part 1</a>
+  <a href="/final-project-part-two.md">Final Project: Part 2</a>
+  <a href="/final-project-part-three.md">Final Project: Part 3</a>
 </div>
 
 # Data-Visualization-Portfolio
