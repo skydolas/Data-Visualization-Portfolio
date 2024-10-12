@@ -89,6 +89,8 @@ Plass, S. (2022, December 21). Soda alternatives. Everyday Health.
 <https://www.everydayhealth.com/photogallery/soda-alternatives.aspx>
 
 ---
+---
+
 [Final story](https://carnegiemellon.shorthandstories.com/sugar-content-in-soft-drinks/index.html)
 
 [Final presentation](https://carnegiemellon.shorthandstories.com/presentation-sweet-seduction/index.html)
