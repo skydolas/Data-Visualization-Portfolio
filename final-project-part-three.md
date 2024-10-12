@@ -8,7 +8,7 @@ This part showcases the journey that went into curating the Part 3 of "Sweet Sed
 I grew up as an athlete, but eventually towards my teenage I became about 95kgs. All thanks to the unhealthy food and lots of soft drinks. When I was 16 I took a resolution of getting fit and indulging in healthy habits, seeing people around me braving through diabetese. That's when my understanding of healthy food and sugar consumption started. This project is an extension of my knowledge and experience over the years, so that young adults around me can understand the effect of sugar consumption visually.
 
 ## Target Audience  
-This project is aimed for yound adults in USA. Per my research soft drinks and sugary drinks are consumed on daily basis in USA by young adults either to stay hydrated or to get quick boost in energy. A can of soft drink contains so much sugar that you can add 20-30 pounds of weight in a year if you drink daily. This story is aimed at those young adults who casually srink these sugary drinks for fun or as a source of energy.   
+This project is aimed for young adults in USA. Per my research soft drinks and sugary drinks are consumed on daily basis in USA by young adults either to stay hydrated or to get quick boost in energy. A can of soft drink contains so much sugar that you can add 20-30 pounds of weight in a year if you drink daily. This story is aimed at those young adults who casually srink these sugary drinks for fun or as a source of energy.   
 
 ## Some of the highlighting feedback after Part 2:
 1. The impact of sugar consumptions was not communicated, users were saying the numbers are not helping and may be some visuals would help.      
@@ -28,7 +28,7 @@ Here is a peep into my Figma board and Tableau where I made iterations before I 
 
 
 ## Reflection  
-In the development of "Sweet Seduction: Choices & their consequences"," I encountered a significant in sourcing data and weaving it together to build the narration. In the begining I was in a difficult spot as I wasn't able to communicate the effect of sugar consumption. However, my constant itteration and user feedback eventually paid off, helping me create a meaningful story that I was visualizing from the begining.  
+In the development of "Sweet Seduction: Choices & their consequences"," I encountered a significant challeneg in sourcing data and weaving it together to build the narration. In the begining I was in a difficult spot as I wasn't able to communicate the effect of sugar consumption. However, my constant itteration and user feedback eventually paid off, helping me create a meaningful story that I was visualizing from the begining.  
 
 ​When it came to data visualizations, my focus was on creating minimal designs that can be read at scrolling pace. I deliberately added short paragraphs to create pause in the story for the viewer to stop and think while scrolling. My aim here was to create moments where user can feel the impact and then moments where user can pause and think about it.  
 Overall this journey of deriving meaning from the boring data sets and creating a story out of it was fun and brought a new outlook to how data can be presented or conveyed.  
