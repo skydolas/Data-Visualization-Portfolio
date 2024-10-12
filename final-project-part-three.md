@@ -39,7 +39,7 @@ This final project is a reminder to the young adults in USA who consume soft dri
 
 ### Deaths due to type 2 diabetes:
 Roser, M., Ritchie, H., & Ortiz-Ospina, E. (2024). Deaths from diabetes by type. Our World in Data.  
-https://ourworldindata.org/grapher/deaths-from-diabetes-by-type?country=OWID_WRL~USA
+[https://ourworldindata.org/grapher/deaths-from-diabetes-by-type?country=OWID_WRL~USA](url)
 
 IHME, Global Burden of Disease (2024) – with minor processing by Our World in Data. “Type 2 Diabetes” [dataset]. IHME, Global Burden of Disease, “Global Burden of Disease - Deaths and DALYs” [original data].
 
