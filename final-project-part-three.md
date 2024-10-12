@@ -1,4 +1,8 @@
 | [Home](./README.md)              | [Government Debt](./GOVTDEBT.md)  | [Infection Awareness](./INFAWARE.md) | [Final Project: Part 1](./FinalProject.md) | [Final Project: Part 2](./final-project-part-two.md) | [Final Project: Part 3](./final-project-part-three.md) |
+---
+[Final story](https://carnegiemellon.shorthandstories.com/sugar-content-in-soft-drinks/index.html)
+
+[Final presentation](https://carnegiemellon.shorthandstories.com/presentation-sweet-seduction/index.html)
 
 # Final Project: Part 3
 ## Summary  
@@ -76,6 +80,12 @@ Centers for Disease Control and Prevention. (2023, June 7). Insulin resistance a
 
 Stoll, K. (2023, March 10). Can eating too much sugar cause diabetes? University Hospitals.   
 <https://www.uhhospitals.org/blog/articles/2023/03/can-eating-too-much-sugar-cause-diabetes>  
+
+
+---
+[Final story](https://carnegiemellon.shorthandstories.com/sugar-content-in-soft-drinks/index.html)
+
+[Final presentation](https://carnegiemellon.shorthandstories.com/presentation-sweet-seduction/index.html)
 
 ---
 
