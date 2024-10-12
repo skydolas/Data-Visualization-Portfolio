@@ -83,12 +83,12 @@ Stoll, K. (2023, March 10). Can eating too much sugar cause diabetes? University
 
 
 ---
-[Final story](https://carnegiemellon.shorthandstories.com/sugar-content-in-soft-drinks/index.html)
-
-[Final presentation](https://carnegiemellon.shorthandstories.com/presentation-sweet-seduction/index.html)
-
----
 
 ### Alternatives to soft drinks:
 Plass, S. (2022, December 21). Soda alternatives. Everyday Health.   
 <https://www.everydayhealth.com/photogallery/soda-alternatives.aspx>
+
+---
+[Final story](https://carnegiemellon.shorthandstories.com/sugar-content-in-soft-drinks/index.html)
+
+[Final presentation](https://carnegiemellon.shorthandstories.com/presentation-sweet-seduction/index.html)
