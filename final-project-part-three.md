@@ -19,9 +19,12 @@ This project is aimed for young adults in USA. Per my research soft drinks and s
 ## Behind The Scenes  
 Here is a peep into my Figma board and Tableau where I made iterations before I crafted the final version. I used Tableau to explore datasets and used Figma to translated the final visualizations to the design language as per my moodboard. I found out that fine tuning visuals in Figma helped me quickly iterrate and show improvisations to my users and engage in some deep conversations. Since I only had 3 people, this to and fro helped me refining and delivering the final version. 
 
-<img src="./Figma.png" alt="Figma" width="" height="800">
-<img src="./Tableau 1 .png" alt="Tableau 1" width="" height="600">
-<img src="./Screenshot 2024-10-11 183701.png" alt="Tableau 1" width="" height="600">
+<img src="./Figma.png" alt="Figma" width="" height="800">  
+
+<img src="./Tableau 1 .png" alt="Tableau 1" width="" height="600">  
+
+<img src="./Screenshot 2024-10-11 183701.png" alt="Tableau 1" width="" height="600">  
+
 
 
 
